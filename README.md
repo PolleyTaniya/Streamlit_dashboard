@@ -1,5 +1,6 @@
-Streamlit Dashboard for Interactive Data Visualization of Census and General Data.
+# Streamlit Dashboard for Interactive Data Visualization of Census and General Data.
 IDEAS-TIH Internship Program 2024 (ISI Kolkata)
+
 
 ## User Manual
 Below is a step-by-step guide for using the Streamlit dashboard:
